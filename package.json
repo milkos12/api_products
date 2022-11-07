@@ -1,0 +1,23 @@
+{
+  "name": "api_products",
+  "version": "1.0.0",
+  "description": "This API will allow you to query fake products and was built on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkos12/api_products.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkos12/api_products/issues"
+  },
+  "homepage": "https://github.com/milkos12/api_products#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
