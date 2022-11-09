@@ -8,6 +8,7 @@ app.listen(port, () =>{
   console.log('Used the port 300')
 });
 
+app.use(express.json());
 routerApi(app);
 /*app.get('/products',(req, res) => {
   res.send("hey hi")
